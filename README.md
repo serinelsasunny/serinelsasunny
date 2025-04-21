@@ -4,7 +4,6 @@
 - 🔭 I’m currently doing MERN stack internship with Upcode software Labs.....
 - 👯 I’m looking to collaborate in the development of more reliable and user -friendly applications.
 -  📫 How to reach me: serinelsa@gmail.com
--  <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=serinelsasunny&label=Profile%20views&color=0e75b6&style=flat" alt="serinelsasunny" /> </p>
 
